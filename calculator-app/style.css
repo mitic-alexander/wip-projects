@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Fira Mono';
+    font-size: 23px;
+    font-weight: bold;
+    color: #222222;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    border: solid 1px #000000;
+    padding: 10px;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+#result {
+    background-color: #222222;
+    color: #e4e4e4;
+    text-align: right;
+    font-size: 43px;
+    height: 100px;
+}
+#calculation {
+    background-color: #353535;
+    color: #e4e4e4;
+    text-align: left;
+    font-size: 23px;
+    height: 50px;
+}
+#feedback {
+    background-color: #4b4b4b;
+    color: #e4e4e4;
+    text-align: left;
+    font-size: 13px;
+    height: 40px;
+}
+#deletes {
+    user-select: none;
+    background-color: #e02d00;
+}
+#deletes:hover {
+    background-color: #e02d0075;
+}
+#clear {
+    user-select: none;
+    background-color: #ffd900;
+}
+#clear:hover {
+    background-color: #ffd90075;
+}
+.numbers {
+    user-select: none;
+    background-color: #cdd8db;
+}
+.numbers:hover {
+    background-color: #cdd8db95;
+}
+.functions {
+    user-select: none;
+    background-color: #92b0c4;
+}
+.functions:hover {
+    background-color: #92b0c495;
+}
+#equals {
+    user-select: none;
+    background-color: #60bffa;
+}
+#equals:hover {
+    background-color: #60bffa95;
+}

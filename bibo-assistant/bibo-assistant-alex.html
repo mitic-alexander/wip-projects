@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alexei's Bibo Assistant</title>
+	<link rel="stylesheet" href="page-style.css">
+	<link rel="icon" href="images/ziggy.png">
+</head>
+<body>
+	<header>
+		<a href="https://engoo.com/app/login/" target="_blank"><abbr title="Bibo Tutor's Page"><img class="logo" src="images/bibo-logo.png" alt="Image missing." /></abbr></a>
+		<h1 class="title">Alexei's Bibo Assistant</h1>
+		<abbr class="audio" title="Bitch Lasagna - PewDiePie"><audio src="audio/pewdiepie-bitchlasagna.mp3" controls /></abbr>
+<!--
+		<div data-video="6Dh-RL__uN4" data-autoplay="0" data-loop="1" id="youtube-audio"></div>
+		<script src="https://www.youtube.com/iframe_api"></script>
+		<script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
+-->
+	</header>
+	<nav class="header">
+		<a class="link" href="bibo-assistant-index.html" target="_top"><abbr title="Index">Index</abbr></a>
+		<a class="link" href="bibo-assistant-teki.html" target="_top"><abbr title="Teki's Bibo Assistant">Teki's Bibo Assistant</abbr></a>
+		<a class="link" href="https://eikaiwa.dmm.com/teacher/index/3966" target="_blank"><abbr title="DMM Eikaiwa Page">Alexei's DMM Page</abbr></a>
+		<a class="link" href="https://engoo.com/tutors/3966" target="_blank"><abbr title="Engoo Page">Alexei's Engoo Page</abbr></a>
+		<a class="navimg" href="https://www.collinsdictionary.com/" target="_blank"><abbr title="Collins Dictionary"><img src="images/collins.jpg" /></abbr></a>
+		<a class="navimg" href="https://www.powerthesaurus.org/" target="_blank"><abbr title="Power Thesaurus"><img src="images/power-thesaurus.jpg" /></abbr></a>
+		<a class="navimg" href="https://www.deepl.com/translator" target="_blank"><abbr title="DeepL Translator"><img src="images/deepl.png" /></abbr></a>
+		<a class="navimg" href="https://beta.speedtest.net/" target="_blank"><abbr title="Speedtest.net"><img src="images/speedtest.jpg" /></abbr></a>
+	</nav>
+	<section class="content">
+		<section class="column">
+			<article>
+				<h3>NOTEPAD</h3>
+				<textarea class="notepad" cols=50% rows=35% placeholder="Stupid, write something here..."></textarea>
+			</article>
+		</section>
+		<section class="column">
+			<article>
+				<button class="copy" onclick="copyOldFarewell()"><b>Old Student Farewell</b></button>
+				<textarea readonly id="old-farewell">Thank you for a wonderful lesson NAME! :) It was a pleasure talking with you. Enjoy your day and take care. :)</textarea>
+				<script>
+					function copyOldFarewell() {
+						/* Get the text field */
+						var copyText = document.getElementById("old-farewell");
+						/* Select the text field */
+						copyText.select();
+						/* Copy the text inside the text field */
+						document.execCommand("copy");
+					}
+				</script>
+				<button class="copy" onclick="copyNewFarewell()"><b>New Student Farewell</b></button>
+				<textarea readonly id="new-farewell">Thank you for a wonderful lesson NAME! :) It was a pleasure meeting you and talking with you. Enjoy your day and take care. :)</textarea>
+				<script>
+					function copyNewFarewell() {
+						/* Get the text field */
+						var copyText = document.getElementById("new-farewell");
+						/* Select the text field */
+						copyText.select();
+						/* Copy the text inside the text field */
+						document.execCommand("copy");
+					}
+				</script>
+				<button class="copy" onclick="copyLessonNotes()"><b>Lesson Notes</b></button>
+				<textarea readonly id="lesson-notes" rows=7>
+Name: 
+Proficiency Level: 
+Material: 
+Attendance: Present
+Special Remarks: A very nice student. :)</textarea>
+				<script>
+					function copyLessonNotes() {
+						/* Get the text field */
+						var copyText = document.getElementById("lesson-notes");
+						/* Select the text field */
+						copyText.select();
+						/* Copy the text inside the text field */
+						document.execCommand("copy");
+					}
+				</script>
+			</article>
+		</section>
+	</section>
+	<footer>
+		<p class="footer">
+			<b>Contact Information<br /></b>
+			<b>e-mail:</b> mitic.alexander@tutanota.com
+		</p>
+		<nav class="footer">
+			<a href="https://eikaiwa.dmm.com/app/materials/en" target="_blank"><abbr title="Japan"><img src="images/Flags/Japan.png" /></abbr></a>
+			<a href="https://engoo.co.kr/app/materials/en" target="_blank"><abbr title="South Korea"><img src="images/Flags/South-Korea.png" /></abbr></a>
+			<a href="https://engoo.com.tw/app/materials/en" target="_blank"><abbr title="Taiwan"><img src="images/Flags/Taiwan.png" /></abbr></a>
+			<a href="https://engoo.co.th/app/materials/en" target="_blank"><abbr title="Thailand"><img src="images/Flags/Thailand.png" /></abbr></a>
+			<a href="https://app.vn.engoo.com/materials/en" target="_blank"><abbr title="Vietnam"><img src="images/Flags/Vietnam.png" /></abbr></a>
+			<a href="https://app.engoo.id/materials/en" target="_blank"><abbr title="Indonesia"><img src="images/Flags/Indonesia.png" /></abbr></a>
+			<a href="https://app.engoo.com.br/materials/en" target="_blank"><abbr title="Brazil"><img src="images/Flags/Brazil.png" /></abbr></a>
+			<a href="https://app.engoo.it/materials/en" target="_blank"><abbr title="Italy"><img src="images/Flags/Italy.png" /></abbr></a>
+			<a href="https://app.engoo.ru/materials/en" target="_blank"><abbr title="Russia"><img src="images/Flags/Russia.png" /></abbr></a>
+			<a href="https://app.engoo.es/materials/en" target="_blank"><abbr title="Spain"><img src="images/Flags/Spain.png" /></abbr></a>
+			<a href="https://app.tr.engoo.com/materials/en" target="_blank"><abbr title="Turkey"><img src="images/Flags/Turkey.png" /></abbr></a>
+			<a href="https://app.engoo.mx/materials/en" target="_blank"><abbr title="Mexico"><img src="images/Flags/Mexico.png" /></abbr></a>
+			<a href="https://engoo.com/app/materials/en" target="_blank"><abbr title="Global"><img src="images/Flags/engoo.png" /></abbr></a>
+		</nav>
+	</footer>
+</body>
+</html>

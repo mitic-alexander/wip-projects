@@ -1,0 +1,4130 @@
+[
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "director": "Peter Jackson",
+        "time": 178,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "director": "Peter Jackson",
+        "time": 179,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "director": "Peter Jackson",
+        "time": 201,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hobbit: An Unexpected Journey",
+        "year": 2012,
+        "director": "Peter Jackson",
+        "time": 169,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": 2013,
+        "director": "Peter Jackson",
+        "time": 161,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "year": 2014,
+        "director": "Peter Jackson",
+        "time": 144,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Terry Pratchett's Hogfather",
+        "year": 2006,
+        "director": "Vadim Jean",
+        "time": 189,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Terry Pratchett's The Color of Magic",
+        "year": 2008,
+        "director": "Vadim Jean",
+        "time": 189,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Terry Pratchett's Going Postal",
+        "year": 2010,
+        "director": "Jon Jones",
+        "time": 189,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Godfather",
+        "year": 1972,
+        "director": "Francis Ford Coppola",
+        "time": 175,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Godfather: Part 2",
+        "year": 1974,
+        "director": "Francis Ford Coppola",
+        "time": 202,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Lost City of Z",
+        "year": 2016,
+        "director": "James Gray",
+        "time": 141,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Barber of Siberia",
+        "year": 1998,
+        "director": "Nikita Mikhalkov",
+        "time": 180,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Serenity",
+        "year": 2005,
+        "director": "Joss Whedon",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Watchmen",
+        "year": 2009,
+        "director": "Zack Snyder",
+        "time": 162,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Prestige",
+        "year": 2006,
+        "director": "Christopher Nolan",
+        "time": 130,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Leaves of Grass",
+        "year": 2009,
+        "director": "Tim Blake Nelson",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Gattaca",
+        "year": 1997,
+        "director": "Andrew Niccol",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Labyrinth",
+        "year": 1986,
+        "director": "Jim Henson",
+        "time": 201,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Bicentennial Man",
+        "year": 1999,
+        "director": "Chris Columbus",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Libertine",
+        "year": 2004,
+        "director": "Laurence Dunmore",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Professor and the Madman",
+        "year": 2019,
+        "director": "Farhad Safinia",
+        "time": 124,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "year": 2005,
+        "director": "Andrew Adamson",
+        "time": 143,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Chronicles of Narnia: Prince Caspian",
+        "year": 2008,
+        "director": "Andrew Adamson",
+        "time": 150,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+        "year": 2010,
+        "director": "Michael Apted",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "director": "Christopher Nolan",
+        "time": 169,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A Monster Calls",
+        "year": 2016,
+        "director": "J.A. Bayona",
+        "time": 108,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Proposition",
+        "year": 2005,
+        "director": "John Hillcoat",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": 2006,
+        "director": "Guillermo del Toro",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Limitless",
+        "year": 2011,
+        "director": "Neil Burger",
+        "time": 205,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "White Men Can't Jump",
+        "year": 1992,
+        "director": "Ron Shelton",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Incredibles",
+        "year": 2004,
+        "director": "Brad Bird",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Incredibles 2",
+        "year": 2018,
+        "director": "Brad Bird",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Immortal",
+        "year": 2004,
+        "director": "Enki Bilal",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Moonrise Kingdom",
+        "year": 2012,
+        "director": "Wes Anderson",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Royal Tenenbaums",
+        "year": 2001,
+        "director": "Wes Anderson",
+        "time": 110,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Isle of Dogs",
+        "year": 2018,
+        "director": "Wes Anderson",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Life Aquatic with Steve Zissou",
+        "year": 2004,
+        "director": "Wes Anderson",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Fantastic Mr. Fox",
+        "year": 2009,
+        "director": "Wes Anderson",
+        "time": 87,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Ghost Writer",
+        "year": 2010,
+        "director": "Roman Polanski",
+        "time": 128,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "3:10 to Yuma",
+        "year": 2007,
+        "director": "James Mangold",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A Dangerous Method",
+        "year": 2011,
+        "director": "David Cronenberg",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": 1971,
+        "director": "Stanley Kubrick",
+        "time": 136,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Eyes Wide Shut",
+        "year": 1999,
+        "director": "Stanley Kubrick",
+        "time": 159,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "director": "Stanley Kubrick",
+        "time": 149,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": 1987,
+        "director": "Stanley Kubrick",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Shining",
+        "year": 1980,
+        "director": "Stanley Kubrick",
+        "time": 146,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Tropic Thunder",
+        "year": 2008,
+        "director": "Ben Stiller",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "1984",
+        "year": 1984,
+        "director": "Michael Radford",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Blue Velvet",
+        "year": 1986,
+        "director": "David Lynch",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dune",
+        "year": 1984,
+        "director": "David Lynch",
+        "time": 137,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Eraserhead",
+        "year": 1977,
+        "director": "David Lynch",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Elephant Man",
+        "year": 1980,
+        "director": "David Lynch",
+        "time": 124,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Twin Peaks: Fire Walk with Me",
+        "year": 1992,
+        "director": "David Lynch",
+        "time": 134,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Wild at Heart",
+        "year": 1990,
+        "director": "David Lynch",
+        "time": 125,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mulholland Drive",
+        "year": 2001,
+        "director": "David Lynch",
+        "time": 147,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Lost Highway",
+        "year": 1997,
+        "director": "David Lynch",
+        "time": 134,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Inland Empire",
+        "year": 2006,
+        "director": "David Lynch",
+        "time": 180,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Straight Story",
+        "year": 1999,
+        "director": "David Lynch",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A.I. Rising",
+        "year": 2018,
+        "director": "Lazar Bodroza",
+        "time": 85,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "District 9",
+        "year": 2009,
+        "director": "Neill Blomkamp",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Source Code",
+        "year": 2011,
+        "director": "Duncan Jones",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Warcraft",
+        "year": 2016,
+        "director": "Duncan Jones",
+        "time": 123,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mute",
+        "year": 2018,
+        "director": "Duncan Jones",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Moon",
+        "year": 2009,
+        "director": "Duncan Jones",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Children of Men",
+        "year": 2006,
+        "director": "Alfonso Cuarón",
+        "time": 109,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Chappie",
+        "year": 2015,
+        "director": "Neill Blomkamp",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Elysium",
+        "year": 2013,
+        "director": "Neill Blomkamp",
+        "time": 109,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "RoboCop",
+        "year": 2014,
+        "director": "José Padilha",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "I, Robot",
+        "year": 2004,
+        "director": "Alex Proyas",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Oblivion",
+        "year": 2013,
+        "director": "Joseph Kosinski",
+        "time": 124,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Edge of Tomorrow",
+        "year": 2014,
+        "director": "Doug Liman",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Blade Runner",
+        "year": 1982,
+        "director": "Ridley Scott",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "director": "Denis Villeneuve",
+        "time": 164,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Robin Hood",
+        "year": 2010,
+        "director": "Ridley Scott",
+        "time": 140,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Legend",
+        "year": 1985,
+        "director": "Ridley Scott",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Kingdom of Heaven",
+        "year": 2005,
+        "director": "Ridley Scott",
+        "time": 144,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Prometheus",
+        "year": 2012,
+        "director": "Ridley Scott",
+        "time": 124,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Alien",
+        "year": 1979,
+        "director": "Ridley Scott",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Martian",
+        "year": 2015,
+        "director": "Ridley Scott",
+        "time": 144,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Exodus: Gods and Kings",
+        "year": 2014,
+        "director": "Ridley Scott",
+        "time": 150,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Thelma & Louise",
+        "year": 1991,
+        "director": "Ridley Scott",
+        "time": 130,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "director": "Ridley Scott",
+        "time": 155,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Fifth Element",
+        "year": 1997,
+        "director": "Luc Besson",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Spirited Away",
+        "year": 2001,
+        "director": "Hayao Miyazaki",
+        "time": 125,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": 2004,
+        "director": "Hayao Miyazaki",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": 1988,
+        "director": "Hayao Miyazaki",
+        "time": 86,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Kiki's Delivery Service",
+        "year": 1989,
+        "director": "Hayao Miyazaki",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Castle in the Sky",
+        "year": 1986,
+        "director": "Hayao Miyazaki",
+        "time": 125,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": 1997,
+        "director": "Hayao Miyazaki",
+        "time": 134,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Back to the Future",
+        "year": 1985,
+        "director": "Robert Zemeckis",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Back to the Future Part 2",
+        "year": 1989,
+        "director": "Robert Zemeckis",
+        "time": 108,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Back to the Future Part 3",
+        "year": 1990,
+        "director": "Robert Zemeckis",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "director": "Robert Zemeckis",
+        "time": 142,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A Christmas Carol",
+        "year": 2009,
+        "director": "Robert Zemeckis",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Who Framed Roger Rabbit",
+        "year": 1988,
+        "director": "Robert Zemeckis",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Beowulf (2007)",
+        "year": 2007,
+        "director": "Robert Zemeckis",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Cast Away",
+        "year": 2000,
+        "director": "Robert Zemeckis",
+        "time": 143,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Polar Express",
+        "year": 2004,
+        "director": "Robert Zemeckis",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "What Lies Beneath",
+        "year": 2000,
+        "director": "Robert Zemeckis",
+        "time": 130,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": 1998,
+        "director": "Guy Ritchie",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Snatch",
+        "year": 2000,
+        "director": "Guy Ritchie",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Swept Away",
+        "year": 2002,
+        "director": "Guy Ritchie",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Revolver",
+        "year": 2005,
+        "director": "Guy Ritchie",
+        "time": 111,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "RocknRolla",
+        "year": 2008,
+        "director": "Guy Ritchie",
+        "time": 114,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sherlock Holmes",
+        "year": 2009,
+        "director": "Guy Ritchie",
+        "time": 128,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sherlock Holmes: A Game of Shadows",
+        "year": 2011,
+        "director": "Guy Ritchie",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Man from U.N.C.L.E.",
+        "year": 2015,
+        "director": "Guy Ritchie",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "King Arthur: Legend of the Sword",
+        "year": 2017,
+        "director": "Guy Ritchie",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Aladdin",
+        "year": 2019,
+        "director": "Guy Ritchie",
+        "time": 128,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Gentlemen",
+        "year": 2019,
+        "director": "Guy Ritchie",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Big Eyes",
+        "year": 2014,
+        "director": "Tim Burton",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Frankenweenie",
+        "year": 2012,
+        "director": "Tim Burton",
+        "time": 87,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dark Shadows",
+        "year": 2012,
+        "director": "Tim Burton",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Alice in Wonderland",
+        "year": 2010,
+        "director": "Tim Burton",
+        "time": 108,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Charlie and the Chocolate Factory",
+        "year": 2005,
+        "director": "Tim Burton",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "year": 2007,
+        "director": "Tim Burton",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Corpse Bride",
+        "year": 2005,
+        "director": "Tim Burton",
+        "time": 77,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Big Fish",
+        "year": 2003,
+        "director": "Tim Burton",
+        "time": 125,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sleepy Hollow",
+        "year": 1999,
+        "director": "Tim Burton",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mars Attacks!",
+        "year": 1996,
+        "director": "Tim Burton",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ed Wood",
+        "year": 1994,
+        "director": "Tim Burton",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Edward Scissorhands",
+        "year": 1990,
+        "director": "Tim Burton",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Beetlejuice",
+        "year": 1988,
+        "director": "Tim Burton",
+        "time": 92,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dumbo",
+        "year": 2019,
+        "director": "Tim Burton",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "year": 2016,
+        "director": "Tim Burton",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Alice Through the Looking Glass",
+        "year": 2016,
+        "director": "James Bobin",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Zathura: A Space Adventure",
+        "year": 2005,
+        "director": "Jon Favreau",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Stardust",
+        "year": 2007,
+        "director": "Matthew Vaughn",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Golden Compass",
+        "year": 2007,
+        "director": "Chris Weitz",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Fear and Loathing in Las Vegas",
+        "year": 1998,
+        "director": "Terry Gilliam",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Where the Buffalo Roam",
+        "year": 1980,
+        "director": "Art Linson",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Rum Diary",
+        "year": 2011,
+        "director": "Bruce Robinson",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Secret Window",
+        "year": 2004,
+        "director": "David Koepp",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Finding Neverland",
+        "year": 2004,
+        "director": "Marc Forster",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Island",
+        "year": 2005,
+        "director": "Michael Bay",
+        "time": 136,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Velvet Goldmine",
+        "year": 1998,
+        "director": "Todd Haynes",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Training Day",
+        "year": 2001,
+        "director": "Antoine Fuqua",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Equilibrium",
+        "year": 2002,
+        "director": "Kurt Wimmer",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Wonder Boys",
+        "year": 2000,
+        "director": "Curtis Hanson",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "American History X",
+        "year": 1998,
+        "director": "Tony Kaye",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Illusionist",
+        "year": 2006,
+        "director": "Neil Burger",
+        "time": 110,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Six Degrees of Separation",
+        "year": 1993,
+        "director": "Fred Schepisi",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "I, Robot",
+        "year": 2004,
+        "director": "Alex Proyas",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "I Am Legend",
+        "year": 2007,
+        "director": "Francis Lawrence",
+        "time": 201,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Bram Stoker's Dracula",
+        "year": 1992,
+        "director": "Francis Ford Coppola",
+        "time": 128,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mary Shelley's Frankenstein",
+        "year": 1994,
+        "director": "Kenneth Branagh",
+        "time": 123,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Interview with the Vampire: The Vampire Chronicles",
+        "year": 1994,
+        "director": "Neil Jordan",
+        "time": 123,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Queen of the Damned",
+        "year": 2002,
+        "director": "Michael Rymer",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Noah",
+        "year": 2014,
+        "director": "Darren Aronofsky",
+        "time": 138,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "director": "Darren Aronofsky",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Wrestler",
+        "year": 2008,
+        "director": "Darren Aronofsky",
+        "time": 209,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Black Swan",
+        "year": 2010,
+        "director": "Darren Aronofsky",
+        "time": 208,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "King Arthur",
+        "year": 2004,
+        "director": "Antoine Fuqua",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Clash of the Titans",
+        "year": 2010,
+        "director": "Louis Leterrier",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Wrath of the Titans",
+        "year": 2012,
+        "director": "Jonathan Liebesman",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "John Carter",
+        "year": 2012,
+        "director": "Andrew Stanton",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Snow White and the Huntsman",
+        "year": 2012,
+        "director": "Rupert Sanders",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Huntsman: Winter's War",
+        "year": 2016,
+        "director": "Cedric Nicolas-Troyan",
+        "time": 114,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Prince of Persia: The Sands of Time",
+        "year": 2010,
+        "director": "Mike Newell",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Immortals",
+        "year": 2011,
+        "director": "Tarsem Singh",
+        "time": 110,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jack the Giant Slayer",
+        "year": 2013,
+        "director": "Bryan Singer",
+        "time": 114,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Out of the Furnace",
+        "year": 2013,
+        "director": "Scott Cooper",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hercules",
+        "year": 2014,
+        "director": "Brett Ratner",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Men in Black",
+        "year": 1997,
+        "director": "Barry Sonnenfeld",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Men in Black 2",
+        "year": 2002,
+        "director": "Barry Sonnenfeld",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Men in Black 3",
+        "year": 2012,
+        "director": "Barry Sonnenfeld",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Men in Black: International",
+        "year": 2019,
+        "director": "F. Gary Gray",
+        "time": 114,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hancock",
+        "year": 2008,
+        "director": "Peter Berg",
+        "time": 92,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Truman Show",
+        "year": 1998,
+        "director": "Peter Weir",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Man on the Moon",
+        "year": 1999,
+        "director": "Milos Forman",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hobbit",
+        "year": 1977,
+        "director": "Jules Bass & Arthur Rankin Jr.",
+        "time": 90,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Lord of the Rings",
+        "year": 1978,
+        "director": "Ralph Bakshi",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Perfume: The Story of a Murderer",
+        "year": 2006,
+        "director": "Tom Tykwer",
+        "time": 147,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Humboldt County",
+        "year": 2008,
+        "director": "Darren Grodsky & Danny Jacobs",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Singles",
+        "year": 1992,
+        "director": "Cameron Crowe",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A Good Year",
+        "year": 2006,
+        "director": "Ridley Scott",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dorian Gray",
+        "year": 2009,
+        "director": "Oliver Parker",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "time": 148,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "director": "The Wachowski Brothers",
+        "time": 136,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Matrix Reloaded",
+        "year": 2003,
+        "director": "The Wachowski Brothers",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Matrix Revolutions",
+        "year": 2003,
+        "director": "The Wachowski Brothers",
+        "time": 138,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "John Wick",
+        "year": 2014,
+        "director": "Chad Stahelski & David Leitch",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "John Wick: Chapter 2",
+        "year": 2017,
+        "director": "Chad Stahelski",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "John Wick: Chapter 3 - Parabellum",
+        "year": 2019,
+        "director": "Chad Stahelski",
+        "time": 130,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Se7en",
+        "year": 1995,
+        "director": "David Fincher",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mad Max",
+        "year": 1979,
+        "director": "George Miller",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mad Max 2: The Road Warrior",
+        "year": 1981,
+        "director": "George Miller",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mad Max Beyond Thunderdome",
+        "year": 1985,
+        "director": "George Miller & George Ogilvie",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "director": "George Miller",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Starship Troopers",
+        "year": 1997,
+        "director": "Paul Verhoeven",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Starship Troopers 2: Hero of the Federation",
+        "year": 2004,
+        "director": "Phil Tippett",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Starship Troopers 3: Marauder",
+        "year": 2008,
+        "director": "Edward Neumeier",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Starship Troopers: Invasion",
+        "year": 2012,
+        "director": "Shinji Aramaki",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Starship Troopers: Traitor of Mars",
+        "year": 2017,
+        "director": "Shinji Aramaki & Masaru Matsumoto",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Whole Nine Yards",
+        "year": 2000,
+        "director": "Jonathan Lynn",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Life of Pi",
+        "year": 2012,
+        "director": "Ang Lee",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Man in the Iron Mask",
+        "year": 1998,
+        "director": "Randall Wallace",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Zombieland",
+        "year": 2009,
+        "director": "Ruben Fleischer",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Zombieland: Double Tap",
+        "year": 2019,
+        "director": "Ruben Fleischer",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Shaun of the Dead",
+        "year": 2004,
+        "director": "Edgar Wright",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hot Fuzz",
+        "year": 2007,
+        "director": "Edgar Wright",
+        "time": 121,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Paul",
+        "year": 2011,
+        "director": "Greg Mottola",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The World's End",
+        "year": 2013,
+        "director": "Edgar Wright",
+        "time": 109,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Scott Pilgrim vs. the World",
+        "year": 2010,
+        "director": "Edgar Wright",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Baby Driver",
+        "year": 2017,
+        "director": "Edgar Wright",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "V for Vendetta",
+        "year": 2005,
+        "director": "James McTeigue",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Stargate",
+        "year": 1994,
+        "director": "Roland Emmerich",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Nine Months",
+        "year": 1995,
+        "director": "Chris Columbus",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mousehunt",
+        "year": 1997,
+        "director": "Gore Verbinski",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A.I. Artificial Intelligence",
+        "year": 2001,
+        "director": "Steven Spielberg",
+        "time": 146,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Natural Born Killers",
+        "year": 1994,
+        "director": "Oliver Stone",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Snowden",
+        "year": 2016,
+        "director": "Oliver Stone",
+        "time": 134,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Doors",
+        "year": 1991,
+        "director": "Oliver Stone",
+        "time": 140,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Fountain",
+        "year": 2006,
+        "director": "Darren Aronofsky",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Nosferatu",
+        "year": 1922,
+        "director": "F.W. Murnau",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "What We Do in the Shadows",
+        "year": 2014,
+        "director": "Jemaine Clement & Taika Waititi",
+        "time": 86,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Underworld",
+        "year": 2003,
+        "director": "Len Wiseman",
+        "time": 121,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Underworld: Evolution",
+        "year": 2006,
+        "director": "Len Wiseman",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Underworld: Rise of the Lycans",
+        "year": 2009,
+        "director": "Patrick Tatopoulos",
+        "time": 92,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Underworld Awakening",
+        "year": 2012,
+        "director": "Måns Mårlind & Björn Stein",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Underworld: Blood Wars",
+        "year": 2016,
+        "director": "Anna Foerster",
+        "time": 91,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Van Helsing",
+        "year": 2004,
+        "director": "Stephen Sommers",
+        "time": 131,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The League of Extraordinary Gentlemen",
+        "year": 2003,
+        "director": "Stephen Norrington",
+        "time": 110,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Resident Evil",
+        "year": 2002,
+        "director": "Paul W.S. Anderson",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Resident Evil: Apocalypse",
+        "year": 2004,
+        "director": "Alexander Witt",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Resident Evil: Extinction",
+        "year": 2007,
+        "director": "Russell Mulcahy",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Resident Evil: Afterlife",
+        "year": 2010,
+        "director": "Paul W.S. Anderson",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Resident Evil: Retribution",
+        "year": 2012,
+        "director": "Paul W.S. Anderson",
+        "time": 95,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Resident Evil: The Final Chapter",
+        "year": 2016,
+        "director": "Paul W.S. Anderson",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Blade",
+        "year": 1998,
+        "director": "Stephen Norrington",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Blade 2",
+        "year": 2002,
+        "director": "Guillermo del Toro",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Blade: Trinity",
+        "year": 2004,
+        "director": "David S. Goyer",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hellboy",
+        "year": 2004,
+        "director": "Guillermo del Toro",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hellboy 2: The Golden Army",
+        "year": 2008,
+        "director": "Guillermo del Toro",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hellboy (2019)",
+        "year": 2019,
+        "director": "Neil Marshall",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Color of Money",
+        "year": 1986,
+        "director": "Martin Scorsese",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Beavis and Butt-Head Do America",
+        "year": 1996,
+        "director": "Mike Judge",
+        "time": 81,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Georgia Rule",
+        "year": 2007,
+        "director": "Garry Marshall",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "time": 142,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "12 Angry Men",
+        "year": 1997,
+        "director": "William Friedkin",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Lawless",
+        "year": 2012,
+        "director": "John Hillcoat",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Boyz n the Hood",
+        "year": 1991,
+        "director": "John Singleton",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Appaloosa",
+        "year": 2008,
+        "director": "Ed Harris",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Miller's Crossing",
+        "year": 1990,
+        "director": "Joel Coen & Ethan Coen",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "director": "Joel Coen & Ethan Coen",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Fight Club",
+        "year": 1999,
+        "director": "David Fincher",
+        "time": 139,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "director": "Milos Forman",
+        "time": 133,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Cosmopolis",
+        "year": 2012,
+        "director": "David Cronenberg",
+        "time": 109,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sin City",
+        "year": 2005,
+        "director": "Frank Miller & Robert Rodriguez",
+        "time": 124,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Frank Miller's Sin City: A Dame to Kill For",
+        "year": 2014,
+        "director": "Frank Miller & Robert Rodriguez",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "El Mariachi",
+        "year": 1992,
+        "director": "Robert Rodriguez",
+        "time": 81,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Desperado",
+        "year": 1995,
+        "director": "Robert Rodriguez",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "From Dusk Till Dawn",
+        "year": 1996,
+        "director": "Robert Rodriguez",
+        "time": 108,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Faculty",
+        "year": 1998,
+        "director": "Robert Rodriguez",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Spy Kids",
+        "year": 2001,
+        "director": "Robert Rodriguez",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Spy Kids 2: Island of Lost Dreams",
+        "year": 2002,
+        "director": "Robert Rodriguez",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Spy Kids 3-D: Game Over",
+        "year": 2003,
+        "director": "Robert Rodriguez",
+        "time": 84,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Once Upon a Time inMexico",
+        "year": 2003,
+        "director": "Robert Rodriguez",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Adventures of Sharkboy and Lavagirl 3-D",
+        "year": 2005,
+        "director": "Robert Rodriguez",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Planet Terror",
+        "year": 2007,
+        "director": "Robert Rodriguez",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Shorts",
+        "year": 2009,
+        "director": "Robert Rodriguez",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Machete",
+        "year": 2010,
+        "director": "Ethan Maniquis & Robert Rodriguez",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Spy Kids 4-D: All the Time inthe World",
+        "year": 2011,
+        "director": "Robert Rodriguez",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Machete Kills",
+        "year": 2013,
+        "director": "Robert Rodriguez",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Spirit",
+        "year": 2008,
+        "director": "Frank Miller",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "director": "Steven Spielberg",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Lost World: Jurassic Park",
+        "year": 1997,
+        "director": "Steven Spielberg",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jurassic Park 3",
+        "year": 2001,
+        "director": "Joe Johnston",
+        "time": 92,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jurassic World",
+        "year": 2015,
+        "director": "Colin Trevorrow",
+        "time": 124,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jurassic World: Fallen Kingdom",
+        "year": 2018,
+        "director": "J.A. Bayona",
+        "time": 128,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "King Kong (2005)",
+        "year": 2005,
+        "director": "Peter Jackson",
+        "time": 187,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Kong: Skull Island",
+        "year": 2017,
+        "director": "Jordan Vogt-Roberts",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "King Kong",
+        "year": 1976,
+        "director": "John Guillermin",
+        "time": 134,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "King Kong Lives",
+        "year": 1986,
+        "director": "John Guillermin & Charles McCracken",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Braveheart",
+        "year": 1995,
+        "director": "Mel Gibson",
+        "time": 178,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Clerks",
+        "year": 1994,
+        "director": "Kevin Smith",
+        "time": 92,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mallrats",
+        "year": 1995,
+        "director": "Kevin Smith",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Chasing Amy",
+        "year": 1997,
+        "director": "Kevin Smith",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dogma",
+        "year": 1999,
+        "director": "Kevin Smith",
+        "time": 130,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jay and Silent Bob Strike Back",
+        "year": 2001,
+        "director": "Kevin Smith",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jersey Girl",
+        "year": 2004,
+        "director": "Kevin Smith",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Clerks 2",
+        "year": 2006,
+        "director": "Kevin Smith",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Zack and Miri Make a Porno",
+        "year": 2008,
+        "director": "Kevin Smith",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Cop Out",
+        "year": 2010,
+        "director": "Kevin Smith",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Red State",
+        "year": 2011,
+        "director": "Kevin Smith",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Tusk",
+        "year": 2014,
+        "director": "Kevin Smith",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Yoga Hosers",
+        "year": 2016,
+        "director": "Kevin Smith",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jay and Silent Bob Reboot",
+        "year": 2019,
+        "director": "Kevin Smith",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Silent Hill",
+        "year": 2006,
+        "director": "Christophe Gans",
+        "time": 125,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Silent Hill: Revelation",
+        "year": 2012,
+        "director": "M.J. Bassett",
+        "time": 95,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Troy",
+        "year": 2004,
+        "director": "Wolfgang Petersen",
+        "time": 163,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Number 23",
+        "year": 2007,
+        "director": "Joel Schumacher",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Machinist",
+        "year": 2004,
+        "director": "Brad Anderson",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "American Psycho",
+        "year": 2000,
+        "director": "Mary Harron",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Conan the Barbarian",
+        "year": 1982,
+        "director": "John Milius",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Conan the Destroyer",
+        "year": 1984,
+        "director": "Richard Fleischer",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Red Sonja",
+        "year": 1985,
+        "director": "Richard Fleischer",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Centurion",
+        "year": 2010,
+        "director": "Neil Marshall",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Highlander",
+        "year": 1986,
+        "director": "Russell Mulcahy",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Highlander 2: The Quickening",
+        "year": 1991,
+        "director": "Russell Mulcahy",
+        "time": 91,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Highlander: The Final Dimension",
+        "year": 1994,
+        "director": "Andrew Morahan",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Highlander: Endgame",
+        "year": 2000,
+        "director": "Douglas Aarniokoski",
+        "time": 87,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Highlander: The Source",
+        "year": 2007,
+        "director": "Brett Leonard",
+        "time": 86,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "DragonHeart",
+        "year": 1996,
+        "director": "Rob Cohen",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dragonheart: A New Beginning",
+        "year": 2000,
+        "director": "Doug Lefler",
+        "time": 84,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dragonheart 3: The Sorcerer's Curse",
+        "year": 2015,
+        "director": "Colin Teague",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dragonheart: Battle for the Heartfire",
+        "year": 2017,
+        "director": "Patrik Syversen",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dragonheart Vengeance",
+        "year": 2020,
+        "director": "Ivan Silvestrini",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "First Knight",
+        "year": 1995,
+        "director": "Jerry Zucker",
+        "time": 134,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Greystoke",
+        "year": 1984,
+        "director": "Hugh Hudson",
+        "time": 135,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Bill & Ted's Excellent Adventure",
+        "year": 1989,
+        "director": "Stephen Herek",
+        "time": 90,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Bill & Ted's Bogus Journey",
+        "year": 1991,
+        "director": "Peter Hewitt",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Addams Family",
+        "year": 1991,
+        "director": "Barry Sonnenfeld",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Addams Family Values",
+        "year": 1993,
+        "director": "Barry Sonnenfeld",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Pink Floyd: The Wall",
+        "year": 1982,
+        "director": "Alan Parker",
+        "time": 95,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Simpsons Movie",
+        "year": 2007,
+        "director": "David Silverman",
+        "time": 87,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "year": 2005,
+        "director": "Garth Jennings",
+        "time": 109,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Son of Rambow",
+        "year": 2007,
+        "director": "Garth Jennings",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Where the Wild Things Are",
+        "year": 2009,
+        "director": "Spike Jonze",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Shallow Grave",
+        "year": 1994,
+        "director": "Danny Boyle",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Trainspotting",
+        "year": 1996,
+        "director": "Danny Boyle",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A Life Less Ordinary",
+        "year": 1997,
+        "director": "Danny Boyle",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Beach",
+        "year": 2000,
+        "director": "Danny Boyle",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "28 Days Later...",
+        "year": 2002,
+        "director": "Danny Boyle",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Millions",
+        "year": 2004,
+        "director": "Danny Boyle",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sunshine",
+        "year": 2007,
+        "director": "Danny Boyle",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Slumdog Millionaire",
+        "year": 2008,
+        "director": "Danny Boyle & Loveleen Tandan",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "127 Hours",
+        "year": 2010,
+        "director": "Danny Boyle",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Frankenstein",
+        "year": 2011,
+        "director": "Danny Boyle",
+        "time": 130,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Trance",
+        "year": 2013,
+        "director": "Danny Boyle",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "T2 Trainspotting",
+        "year": 2017,
+        "director": "Danny Boyle",
+        "time": 117,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Yesterday",
+        "year": 2019,
+        "director": "Danny Boyle",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "War of the Worlds",
+        "year": 2005,
+        "director": "Steven Spielberg",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "World War Z",
+        "year": 2013,
+        "director": "Marc Forster",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "All I See Is You",
+        "year": 2016,
+        "director": "Marc Forster",
+        "time": 109,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Stay",
+        "year": 2005,
+        "director": "Marc Forster",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Stranger Than Fiction",
+        "year": 2006,
+        "director": "Marc Forster",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Kite Runner",
+        "year": 2007,
+        "director": "Marc Forster",
+        "time": 128,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Machine Gun Preacher",
+        "year": 2011,
+        "director": "Marc Forster",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Christopher Robin",
+        "year": 2018,
+        "director": "Marc Forster",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Monster's Ball",
+        "year": 2001,
+        "director": "Marc Forster",
+        "time": 111,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Looper",
+        "year": 2012,
+        "director": "Rian Johnson",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Revenant ",
+        "year": 2015,
+        "director": "Alejandro G. Iñárritu",
+        "time": 156,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Cruel Intentions",
+        "year": 1999,
+        "director": "Roger Kumble",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "A Million Ways to Die in the West",
+        "year": 2014,
+        "director": "Seth MacFarlane",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ted",
+        "year": 2012,
+        "director": "Seth MacFarlane",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ted 2",
+        "year": 2015,
+        "director": "Seth MacFarlane",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "director": "Martin Scorsese",
+        "time": 180,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Giver",
+        "year": 2014,
+        "director": "Phillip Noyce",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Zero Theorem",
+        "year": 2013,
+        "director": "Terry Gilliam",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Interview",
+        "year": 2014,
+        "director": "Evan Goldberg & Seth Rogen",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "This Is the End",
+        "year": 2013,
+        "director": "Evan Goldberg & Seth Rogen",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Pineapple Express",
+        "year": 2008,
+        "director": "David Gordon Green",
+        "time": 111,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Neighbors",
+        "year": 2014,
+        "director": "Nicholas Stoller",
+        "time": 97,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Neighbors 2: Sorority Rising",
+        "year": 2016,
+        "director": "Nicholas Stoller",
+        "time": 92,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sausage Party",
+        "year": 2016,
+        "director": "Greg Tiernan & Conrad Vernon",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Arrival",
+        "year": 2016,
+        "director": "Denis Villeneuve",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dunkirk",
+        "year": 2017,
+        "director": "Christopher Nolan",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "director": "James Cameron",
+        "time": 162,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ex Machina",
+        "year": 2014,
+        "director": "Alex Garland",
+        "time": 108,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Shape of Water",
+        "year": 2017,
+        "director": "Guillermo del Toro",
+        "time": 123,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Big Short",
+        "year": 2015,
+        "director": "Adam McKay",
+        "time": 130,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ali G Indahouse",
+        "year": 2002,
+        "director": "Mark Mylod",
+        "time": 85,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "year": 2006,
+        "director": " Larry Charles",
+        "time": 84,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Dictator",
+        "year": 2012,
+        "director": "Larry Charles",
+        "time": 83,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Brüno",
+        "year": 2009,
+        "director": "Larry Charles",
+        "time": 81,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Brothers Grimsby",
+        "year": 2016,
+        "director": "Louis Leterrier",
+        "time": 83,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Johnny English",
+        "year": 2003,
+        "director": "Peter Howitt",
+        "time": 87,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Johnny English Reborn",
+        "year": 2011,
+        "director": "Oliver Parker",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Johnny English Strikes Again",
+        "year": 2018,
+        "director": "David Kerr",
+        "time": 89,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hangover",
+        "year": 2009,
+        "director": "Todd Phillips",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hangover Part 2",
+        "year": 2011,
+        "director": "Todd Phillips",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hangover Part 3",
+        "year": 2013,
+        "director": "Todd Phillips",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Snowpiercer",
+        "year": 2013,
+        "director": "Bong Joon Ho",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Okja",
+        "year": 2017,
+        "director": "Bong Joon Ho",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Parasite",
+        "year": 2019,
+        "director": "Bong Joon Ho",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mother",
+        "year": 2009,
+        "director": "Bong Joon Ho",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Host",
+        "year": 2006,
+        "director": "Bong Joon Ho",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Her",
+        "year": 2013,
+        "director": "Spike Jonze",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Proof",
+        "year": 2005,
+        "director": "John Madden",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Patch Adams",
+        "year": 1998,
+        "director": "Tom Shadyac",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Good Morning, Vietnam",
+        "year": 1987,
+        "director": "Barry Levinson",
+        "time": 121,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "What About Bob?",
+        "year": 1991,
+        "director": "Frank Oz",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Yes Man",
+        "year": 2008,
+        "director": "Peyton Reed",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Four Rooms",
+        "year": 1995,
+        "director": "Allison Anders & Alexandre Rockwell & Robert Rodriguez & Quentin Tarantino",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "I.Q.",
+        "year": 1994,
+        "director": "Fred Schepisi",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Butterfly Effect",
+        "year": 2004,
+        "director": "Eric Bress & J. Mackye Gruber",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "From Hell",
+        "year": 2001,
+        "director": "The Hughes Brothers",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Johnny Mnemonic",
+        "year": 1995,
+        "director": "Robert Longo",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Coraline",
+        "year": 2009,
+        "director": "Henry Selick",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "WALL-E",
+        "year": 2008,
+        "director": "Andrew Stanton",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Up",
+        "year": 2009,
+        "director": "Pete Docter & Bob Peterson",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Meet Joe Black",
+        "year": 1998,
+        "director": "Martin Brest",
+        "time": 178,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Demolition Man",
+        "year": 1993,
+        "director": "Marco Brambilla",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "South Park: Bigger, Longer & Uncut",
+        "year": 1999,
+        "director": "Trey Parker",
+        "time": 81,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Home Alone",
+        "year": 1990,
+        "director": "Chris Columbus",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Home Alone 2: Lost in New York",
+        "year": 1992,
+        "director": "Chris Columbus",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Godfather: Part 3",
+        "year": 1990,
+        "director": "Francis Ford Coppola",
+        "time": 162,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Home Alone 3",
+        "year": 1997,
+        "director": "Raja Gosnell",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Tank Girl",
+        "year": 1995,
+        "director": "Rachel Talalay",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hackers",
+        "year": 1995,
+        "director": "Iain Softley",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "AEon Flux",
+        "year": 2005,
+        "director": "Karyn Kusama",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Book of Eli",
+        "year": 2010,
+        "director": "The Hughes Brothers",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Tenacious D in the Pick of Destiny",
+        "year": 2006,
+        "director": "Liam Lynch",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Social Network",
+        "year": 2010,
+        "director": "David Fincher",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Fighter",
+        "year": 2010,
+        "director": "David O. Russell",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Pirates of Silicon Valley",
+        "year": 1999,
+        "director": "Martyn Burke",
+        "time": 95,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Revolution OS",
+        "year": 2001,
+        "director": "J.T.S. Moore",
+        "time": 85,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Steve Jobs",
+        "year": 2015,
+        "director": "Danny Boyle",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Code",
+        "year": 2001,
+        "director": "Hannu Puttonen",
+        "time": 58,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Steve Jobs: The Man in the Machine",
+        "year": 2015,
+        "director": "Alex Gibney",
+        "time": 128,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Silicon Cowboys",
+        "year": 2016,
+        "director": "Jason Cohen",
+        "time": 77,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Game",
+        "year": 1997,
+        "director": "David Fincher",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Panic Room",
+        "year": 2002,
+        "director": "David Fincher",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Zodiac",
+        "year": 2007,
+        "director": "David Fincher",
+        "time": 157,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Gone Girl",
+        "year": 2014,
+        "director": "David Fincher",
+        "time": 149,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Alien 3",
+        "year": 1992,
+        "director": "David Fincher",
+        "time": 114,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Aliens",
+        "year": 1986,
+        "director": "James Cameron",
+        "time": 137,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "director": "James Cameron",
+        "time": 194,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Alien: Resurrection",
+        "year": 1997,
+        "director": "Jean-Pierre Jeunet",
+        "time": 109,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Amélie",
+        "year": 2001,
+        "director": "Jean-Pierre Jeunet",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Alien: Covenant",
+        "year": 2017,
+        "director": "Ridley Scott",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Cloud Atlas",
+        "year": 2012,
+        "director": "Tom Tykwer & the Wachowski Brothers",
+        "time": 172,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Rules of Attraction",
+        "year": 2002,
+        "director": "Roger Avary",
+        "time": 110,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "What Dreams May Come",
+        "year": 1998,
+        "director": "Vincent Ward",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Splice",
+        "year": 2009,
+        "director": "Vincenzo Natali",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Memento",
+        "year": 2000,
+        "director": "Christopher Nolan",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Founder",
+        "year": 2016,
+        "director": "John Lee Hancock",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Monty Python's Life of Brian",
+        "year": 1979,
+        "director": "Terry Jones",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Meaning of Life",
+        "year": 1983,
+        "director": "Terry Jones & Terry Gilliam",
+        "time": 107,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": 1975,
+        "director": "Terry Gilliam & Terry Jones",
+        "time": 91,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "And Now for Something Completely Different",
+        "year": 1971,
+        "director": "Ian MacNaughton",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Adventures of Baron Munchausen",
+        "year": 1988,
+        "director": "Terry Gilliam",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Great Expectations",
+        "year": 1998,
+        "director": "Alfonso Cuarón",
+        "time": 111,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "54",
+        "year": 1998,
+        "director": "Mark Christopher",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Closer",
+        "year": 2004,
+        "director": "Mike Nichols",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Minority Report",
+        "year": 2002,
+        "director": "Steven Spielberg",
+        "time": 145,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ace Ventura: Pet Detective",
+        "year": 1994,
+        "director": "Tom Shadyac",
+        "time": 86,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ace Ventura: When Nature Calls",
+        "year": 1995,
+        "director": "Steve Oedekerk",
+        "time": 90,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "director": "Dean DeBlois & Chris Sanders",
+        "time": 98,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "How to Train Your Dragon 2",
+        "year": 2014,
+        "director": "Dean DeBlois",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "How to Train Your Dragon: The Hidden World",
+        "year": 2019,
+        "director": "Dean DeBlois",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Big Hero 6",
+        "year": 2014,
+        "director": "Don Hall & Chris Williams",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "12 Monkeys",
+        "year": 1995,
+        "director": "Terry Gilliam",
+        "time": 129,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Imaginarium of Doctor Parnassus",
+        "year": 2009,
+        "director": "Terry Gilliam",
+        "time": 123,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Look Who's Back",
+        "year": 2015,
+        "director": "David Wnendt",
+        "time": 116,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Tideland",
+        "year": 2005,
+        "director": "Terry Gilliam",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Fisher King",
+        "year": 1991,
+        "director": "Terry Gilliam",
+        "time": 137,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Brazil",
+        "year": 1985,
+        "director": "Terry Gilliam",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Time Badits",
+        "year": 1981,
+        "director": "Terry Gilliam",
+        "time": 110,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jabberwocky",
+        "year": 1977,
+        "director": "Terry Gilliam",
+        "time": 105,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Man Who Killed Don Quixote",
+        "year": 2018,
+        "director": "Terry Gilliam",
+        "time": 132,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Donnie Darko",
+        "year": 2001,
+        "director": "Richard Kelly",
+        "time": 113,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Enemy at the Gates",
+        "year": 2001,
+        "director": "Jean-Jacques Annaud",
+        "time": 131,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "director": "Gus Van Sant",
+        "time": 126,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Sleepers",
+        "year": 1996,
+        "director": "Barry Levinson",
+        "time": 147,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Beowulf",
+        "year": 1999,
+        "director": "Graham Baker",
+        "time": 95,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Beowulf & Grendel ",
+        "year": 2005,
+        "director": "Sturla Gunnarsson",
+        "time": 103,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Final Fantasy: The Spirits Within",
+        "year": 2001,
+        "director": "Hironobu Sakaguchi & Motonori Sakakibara ",
+        "time": 106,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Final Fantasy 7: Advent Children",
+        "year": 2005,
+        "director": "Tetsuya Nomura & Takeshi Nozue",
+        "time": 101,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hook",
+        "year": 1991,
+        "director": "Steven Spielberg",
+        "time": 142,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Brothers Grimm",
+        "year": 2005,
+        "director": "Terry Gilliam",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Waterworld",
+        "year": 1995,
+        "director": "Kevin Reynolds",
+        "time": 135,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Crow",
+        "year": 1994,
+        "director": "Alex Proyas",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Crow: City of Angels",
+        "year": 1996,
+        "director": "Tim Pope",
+        "time": 84,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Crow: Salvation",
+        "year": 2000,
+        "director": "Bharat Nalluri",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dark City",
+        "year": 1998,
+        "director": "Alex Proyas",
+        "time": 100,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Knowing",
+        "year": 2009,
+        "director": "Alex Proyas",
+        "time": 121,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Gods of Egypt",
+        "year": 2016,
+        "director": "Alex Proyas",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "director": "Steven Spielberg",
+        "time": 115,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Indiana Jones and the Temple of Doom",
+        "year": 1984,
+        "director": "Steven Spielberg",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "director": "Steven Spielberg",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "year": 2008,
+        "director": "Steven Spielberg",
+        "time": 122,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Rocky",
+        "year": 1976,
+        "director": "John G. Avildsen",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Rocky 2",
+        "year": 1979,
+        "director": "Sylvester Stallone",
+        "time": 119,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Rocky 3",
+        "year": 1982,
+        "director": "Sylvester Stallone",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Rocky 4",
+        "year": 1985,
+        "director": "Sylvester Stallone",
+        "time": 91,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Rocky 5",
+        "year": 1990,
+        "director": "John G. Avildsen",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Rocky Balboa",
+        "year": 2006,
+        "director": "Sylvester Stallone",
+        "time": 102,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Manhunter",
+        "year": 1986,
+        "director": "Michael Mann",
+        "time": 120,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "director": "Jonathan Demme",
+        "time": 118,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hannibal",
+        "year": 2001,
+        "director": "Ridley Scott",
+        "time": 131,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Red Dragon",
+        "year": 2002,
+        "director": "Brett Ratner",
+        "time": 124,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hannibal Rising",
+        "year": 2007,
+        "director": "Peter Webber",
+        "time": 121,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Dead Man",
+        "year": 1995,
+        "director": "Jim Jarmusch",
+        "time": 121,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Coffee and Cigarettes",
+        "year": 2003,
+        "director": "Jim Jarmusch",
+        "time": 95,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Dead Don't Die",
+        "year": 2019,
+        "director": "Jim Jarmusch",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "My Best Friend's Birthday",
+        "year": 1987,
+        "director": "Quentin Tarantino",
+        "time": 90,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "director": "Quentin Tarantino",
+        "time": 99,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "director": "Quentin Tarantino",
+        "time": 154,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Jackie Brown",
+        "year": 1997,
+        "director": "Quentin Tarantino",
+        "time": 154,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "director": "Quentin Tarantino",
+        "time": 111,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Kill Bill: Vol. 2",
+        "year": 2004,
+        "director": "Quentin Tarantino",
+        "time": 137,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Death Proof",
+        "year": 2007,
+        "director": "Quentin Tarantino",
+        "time": 127,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "director": "Quentin Tarantino",
+        "time": 153,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "director": "Quentin Tarantino",
+        "time": 165,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Hateful Eight",
+        "year": 2015,
+        "director": "Quentin Tarantino",
+        "time": 168,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Once Upon a Time...In Hollywood",
+        "year": 2019,
+        "director": "Quentin Tarantino",
+        "time": 161,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Once Upon a Time inAmerica",
+        "year": 1984,
+        "director": "Sergio Leone",
+        "time": 229,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Ad Astra",
+        "year": 2019,
+        "director": "James Gray",
+        "time": 123,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Doctor Sleep",
+        "year": 2019,
+        "director": "Mike Flanagan",
+        "time": 152,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Mexican",
+        "year": 2001,
+        "director": "Gore Verbinski",
+        "time": 123,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Shutter Island",
+        "year": 2010,
+        "director": "Martin Scorsese",
+        "time": 138,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "The Green Mile",
+        "year": 1999,
+        "director": "Frank Darabont",
+        "time": 189,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Annie Hall",
+        "year": 1977,
+        "director": "Woody Allen",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Crimes and Misdemeanors",
+        "year": 1989,
+        "director": "Woody Allen",
+        "time": 104,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Husbands and Wives",
+        "year": 1992,
+        "director": "Woody Allen",
+        "time": 108,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Mighty Aphrodite",
+        "year": 1995,
+        "director": "Woody Allen",
+        "time": 95,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Deconstructing Harry",
+        "year": 1997,
+        "director": "Woody Allen",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Hollywood Ending",
+        "year": 2002,
+        "director": "Woody Allen",
+        "time": 112,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Anything Else",
+        "year": 2003,
+        "director": "Woody Allen",
+        "time": 108,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Vicky Cristina Barcelona",
+        "year": 2008,
+        "director": "Woody Allen",
+        "time": 96,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Whatever Works",
+        "year": 2009,
+        "director": "Woody Allen",
+        "time": 93,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Midnight in Paris",
+        "year": 2011,
+        "director": "Woody Allen",
+        "time": 94,
+        "rating": 5,
+        "watched": true
+    },
+    {
+        "title": "Everything You Always Wanted to Know About Sex (But Were Afraid to Ask)",
+        "year": 1972,
+        "director": "Woody Allen",
+        "time": 88,
+        "rating": 5,
+        "watched": true
+    }
+]
