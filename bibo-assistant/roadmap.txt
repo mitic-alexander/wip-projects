@@ -1,2 +1,0 @@
-Long-term goals:
-Find a way to create a random phrase generator, or something similar to that for the farewell message.
